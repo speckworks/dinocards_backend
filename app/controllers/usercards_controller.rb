@@ -1,5 +1,5 @@
 class UserCardsController < ApplicationController
-    def index
+      def index
         @user_cards = UserCard.all
         render json: @user_cards
       end
