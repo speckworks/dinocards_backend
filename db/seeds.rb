@@ -15,12 +15,12 @@ d6 = Dino.create(img:"http://images.dinosaurpictures.org/Velociraptor_2_big_c7e8
 d7 = Dino.create(img:"http://images.dinosaurpictures.org/Utahceratops%2Bgettyi_5fd2.jpg", name:"Utahceratops")
 puts "Dinos Created..."
 
-c1 = Color.create(color:"4CAF50")
-c2 = Color.create(color:"008CBA")
-c3 = Color.create(color:"008CBA")
-c4 = Color.create(color:"ffa500")
-c5 = Color.create(color:"fad507")
-c6 = Color.create(color:"8A2BE2")
-c7 = Color.create(color:"f44336")
+c1 = Color.create(color:"#4CAF50")
+c2 = Color.create(color:"#008CBA")
+c3 = Color.create(color:"#008CBA")
+c4 = Color.create(color:"#ffa500")
+c5 = Color.create(color:"#fad507")
+c6 = Color.create(color:"#8A2BE2")
+c7 = Color.create(color:"#f44336")
 puts "Colors Created..."
  
