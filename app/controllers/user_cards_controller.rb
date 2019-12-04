@@ -27,7 +27,7 @@ class UserCardsController < ApplicationController
 
     private
     def user_card_params
-    params.permit(:dino_id, :color_id)
+    params.permit(:dino_id,:color_id,:user_id,:id)
     end
-
 end
+
