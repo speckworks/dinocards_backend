@@ -24,3 +24,16 @@ c6 = Color.create(color:"#c71585")
 c7 = Color.create(color:"#f44336")
 puts "Colors Created..."
  
+u1 = User.create(name:"january")
+u2 = User.create(name:"february")
+u3 = User.create(name:"march")
+u3 = User.create(name:"april")
+u4 = User.create(name:"may")
+u5 = User.create(name:"june")
+u6 = User.create(name:"july")
+u7 = User.create(name:"august")
+u8 = User.create(name:"september")
+u9 = User.create(name:"october")
+u10 = User.create(name:"november")
+u11 = User.create(name:"december")
+puts "Users Created"
