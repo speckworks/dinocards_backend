@@ -1,3 +1,5 @@
+This is a Rails Backend for my Dinosaur Cards project built at Flatiron in Dumbo during Module 4 for a React.js App.
+
 # README
 
 This README would normally document whatever steps are necessary to get the
